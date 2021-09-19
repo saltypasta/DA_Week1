@@ -1,0 +1,6 @@
+## Reflection
+
+" For us, digital archaeology is not the mere use of computational tools to answer archaeological questions more quickly. Rather, we want to enable the audience for archaeological thinking to enter into conversation with us, and to _do_ archaeology for themselves." (ODATE 1.1 )
+
+My initial definition of Digital Archaeology upon registering for this course was the use of digital tools to perform achaeology. Though Digital Archaeology does encompass this definition, it is more complex than that. The above quote illustrates how Digital Archaeology differs from traditional Archaeology. The Digital aspect of Digital Archaeology allows for not only the use of digital tools, but also tools for collaboration. An example of this within the context of this course is the tool #Hypothes.is. This tool not only allows us to annotate materials as individuals, but also as a community of Digital Archaeologists. By making Achaeological discussions accessible through digital tools, we have the opportunity to create community discussions that are more valuable than the sum of its individual parts. Digital Archaeology's inclusivity is arguably a greater strength than capacity of its individual digital tools. 
+
